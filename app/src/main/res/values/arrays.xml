@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_sort_settings_labels">
+        <item>@string/movie_sort_setting_pop</item>
+        <item>@string/movie_sort_setting_rated</item>
+    </string-array>
+    <string-array name="movie_sort_settings_values">
+        <item>@string/movie_sort_setting_pop_val</item>
+        <item>@string/movie_sort_setting_rated_val</item>
+    </string-array>
+</resources>
