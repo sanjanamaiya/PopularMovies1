@@ -14,10 +14,6 @@
         tools:context="com.sanjana.androidprojects.popularmovies.DetailActivityFragment"
         tools:showIn="@layout/activity_detail">
 
-        <!--android:paddingLeft="@dimen/activity_horizontal_margin"
-        -->
-        <!--android:paddingRight="@dimen/activity_horizontal_margin" -->
-
         <TextView
             android:id="@+id/movie_title_textview"
             android:layout_width="match_parent"
